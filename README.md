@@ -30,14 +30,6 @@ sweet-delights-bakery/
 yaml
 Copy code
 
-## 📸 Screenshot
-
-Here’s a quick look at the current repository structure:
-
-![Repository Screenshot](https://user-images.githubusercontent.com/your-github-username/Screenshot%202025-05-07%20145428.png)
-
-*Replace the link above with your actual screenshot URL after uploading the image to GitHub or an image hosting service.*
-
 ## 📝 Future Improvements
 
 - Add styling using CSS
